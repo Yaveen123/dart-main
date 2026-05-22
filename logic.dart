@@ -2,8 +2,8 @@ void main() {
 	var num = 10;
 
 	if (num == 5) {
-		print("Thing");
+		print("$num is 5!");
 	} else {
-		print("Other thing");
+		print("$num is not 5");
 	}
 }
